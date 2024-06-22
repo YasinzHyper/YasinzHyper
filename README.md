@@ -17,6 +17,14 @@
   </a>
 </div>
 <br />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,js,cpp,dart,py,html,css,jquery,bootstrap,sass,postman,figma,flutter,firebase,react,vite,mongodb,express,nodejs,npm,tensorflow,prisma,postgres,mysql,heroku,vercel,gcp,vscode,eclipse,git,github,bash,windows,ubuntu,vim&perline=12" />
+  </a>
+</p>
+
+<br />
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yasinzhyper&show_icons=true&theme=highcontrast&icon_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF&bg_color=90deg,020344,28B8D5&line_height=28&rank_icon=github"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinzhyper&theme=dark&date_format=j%20M%5B%20Y%5D&background=0,020344,28B8D5&currStreakLabel=ff9a00&fire=ff5a00&ring=ff9a00&card_width=425" alt="GitHub Streak Stats" height="200" />
