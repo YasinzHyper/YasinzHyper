@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Yasin+%F0%9F%91%8B;Information+Science+Student;Passionate+Programmer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 </div>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/YasinzHyper/YasinzHyper/blob/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
 </p>
 <br/>
 <div align="center">
