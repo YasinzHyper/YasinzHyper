@@ -1,19 +1,25 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=6FDA44&size=32&center=true&vCenter=true&width=600&height=50&duration=3000&pause=1000&lines=Hi+there+I'm+Yasin+%F0%9F%91%8B;Information+Science+Student;Passionate+Programmer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 </div>
+
 <p align = "center">
-	<img src = "https://github.com/YasinzHyper/YasinzHyper/blob/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
+	<picture>
+  	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/YasinzHyper/YasinzHyper/blob/output/github-contribution-grid-snake-dark.svg">
+  	<img alt="Snake Game" src="https://github.com/YasinzHyper/YasinzHyper/blob/output/github-contribution-grid-snake.svg">
+	</picture>
 </p>
+
 <br/>
+
 <div align="center">
   <a href="https://linkedin.com/in/mohammed-yasin-zuhayr-249158157" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://x.com/yasin_who" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=222222&style=for-the-badge&logo=x&logoColor=blsck alt=twitter style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=222222&style=for-the-badge&logo=x&logoColor=blsck alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://leetcode.com/zulfiyasser" target="_blank">
-  <img src=https://img.shields.io/badge/leetcode-%2300acee.svg?color=ff9a00&style=for-the-badge&logo=leetcode&logoColor=black alt=leetcode style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/leetcode-%2300acee.svg?color=ff9a00&style=for-the-badge&logo=leetcode&logoColor=black alt=leetcode style="margin-bottom: 5px;" />
   </a>
 </div>
 <br />
@@ -47,6 +53,8 @@
 </div>
 <br/>
 <div align="center">
-  <img height=350 align="center" src="https://stats.quira.sh/YasinzHyper/languages-over-time?theme=dark"/>
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=YasinzHyper">	
+    <img height=350 align="center" src="https://stats.quira.sh/YasinzHyper/languages-over-time?theme=dark"/>
+  </a>	  
   <!-- <img height=350 align="center" src="https://stats.quira.sh/YasinzHyper/github?theme=dark"/> -->
 </div>
