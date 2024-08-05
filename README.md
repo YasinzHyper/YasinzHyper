@@ -23,6 +23,12 @@
   </a>
 </div>
 <br />
+<div align="center">
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=YasinzHyper&style=for-the-badge">
+  </a>
+</div>
+
 <!-- Skill  Icons -->
 
 <p align="center">
